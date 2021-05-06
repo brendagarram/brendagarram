@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**brendagarram/brendagarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 Here are some ideas to get you started:
 
