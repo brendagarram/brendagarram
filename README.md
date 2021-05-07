@@ -9,6 +9,9 @@ Hi! I am Brenda, a Front-end developer who enjoy constantly learning. I am a bio
 "Implement a solution in code, is the magic of programming"
 </br>
 </br>
+ :woman_technologist: On my way to becoming a backend developer and a data scientist in the future
+</br>
+</br>
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/VwIqWX7MbabUdDaRqe/giphy.gif" alt="generalInfo" background-size="cover"/> 
  </p>
