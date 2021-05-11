@@ -4,7 +4,7 @@
 </div>
 </br>
 </br>
-:stars: Implement a solution in code, is the magic of programming :fireworks:
+                                                :stars: Implement a solution in code, is the magic of programming :fireworks:
 </br>
 </br>
 Hi! I am Brenda, a Front-end developer who enjoys constantly learning. I am a biologist by training, but I realized that programming is not much different from doing research in a laboratory: I hypothesize, imagine, test, and focus on the details in my code. The only difference is that my new lab is my computer. :woman_scientist: :microscope: :woman_technologist:
@@ -59,6 +59,6 @@ Hi! I am Brenda, a Front-end developer who enjoys constantly learning. I am a bi
 
 :pencil: I'am currently learning React <img src="https://user-images.githubusercontent.com/75234502/117393347-8cd6c400-aeb9-11eb-9fdf-4abf86dd0219.png" alt="reactIcon" width="20"/> and Python <img src="https://user-images.githubusercontent.com/75234502/117393492-dd4e2180-aeb9-11eb-820f-f44449295e84.png" alt="reactIcon" width="20"/> 
 
-<p>📫 Get in touch with me!** brendagar88@gmail.com</p>
+<p>📫 Get in touch with me! brendagar88@gmail.com</p>
 <p>
 ⚡ See more about me in <a href="www.linkedin.com/in/brenda-garcía-ramírez">Linkedin</a></p>
