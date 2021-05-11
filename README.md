@@ -10,7 +10,6 @@
 Hi! I am Brenda, a Front-end developer who enjoys constantly learning. I am a biologist by training, but I realized that programming is not much different from doing research in a laboratory: I hypothesize, imagine, test, and focus on the details in my code. The only difference is that my new lab is my computer. :woman_scientist: :microscope: :woman_technologist:
 </br>
 </br>
-</br>
  :woman_technologist: On my way to becoming a backend developer and a data scientist in the future
 </br>
 </br>
