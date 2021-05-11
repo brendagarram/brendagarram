@@ -4,16 +4,17 @@
 </div>
 </br>
 </br>
-Hi! I am Brenda, a Front-end developer who enjoy constantly learning. I am a biologist by training, but I realized that programming is not much different from doing research in a laboratory: I hypothesize, imagine, test, and focus on the details in my code. The only difference is that my new lab is my computer.  :microscope: :woman_technologist:
+:stars: Implement a solution in code, is the magic of programming :fireworks:
 </br>
-"Implement a solution in code, is the magic of programming"
+Hi! I am Brenda, a Front-end developer who enjoys constantly learning. I am a biologist by training, but I realized that programming is not much different from doing research in a laboratory: I hypothesize, imagine, test, and focus on the details in my code. The only difference is that my new lab is my computer. :woman_scientist: :microscope: :woman_technologist:
+</br>
 </br>
 </br>
  :woman_technologist: On my way to becoming a backend developer and a data scientist in the future
 </br>
 </br>
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/VwIqWX7MbabUdDaRqe/giphy.gif" alt="generalInfo" background-size="cover"/> 
+<img align="center" src="https://media.giphy.com/media/22mcnkptyms7aGk5Rp/giphy.gif" alt="generalInfo" background-size="cover"/> 
  </p>
  
  
